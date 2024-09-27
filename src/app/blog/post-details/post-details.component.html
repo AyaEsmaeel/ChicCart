@@ -1,1 +1,51 @@
-<p>post-details works!</p>
+<div class="post-details-container">
+  <!-- تفاصيل المنشور -->
+  <div class="post-header">
+    <div class="user-details">
+      <img src="https://cdn-icons-png.flaticon.com/128/1144/1144709.png" alt="User Icon" class="user-icon">
+      <span class="User">{{ post.userId }}</span>
+    </div>
+    <h2>{{ post.title }}</h2>
+    <p class="post-meta">
+        <span class="meta-action">
+        <img src="https://cdn-icons-png.flaticon.com/128/709/709612.png" alt="Views Icon" class="meta-icon">|
+        {{ post.views }} Views
+        </span>
+        <span class="meta-action" (click)="likePost()">
+          <img src="https://cdn-icons-png.flaticon.com/128/126/126473.png" alt="Likes Icon" class="meta-icon">
+          {{ post.reactions.likes }} Likes |
+        </span>
+        <span class="meta-action" (click)="dislikePost()">
+          <img src="https://cdn-icons-png.flaticon.com/128/126/126504.png" alt="Dislikes Icon" class="meta-icon">
+          {{ post.reactions.dislikes }} Dislikes
+        </span>
+</p>
+  </div>
+
+  <div class="post-body">
+    <p>{{ post.body }}</p>
+  </div>
+
+  <div class="comments-section">
+    <h3>Comments ({{ comments.length }})</h3>
+    <div *ngIf="comments.length > 0; else noComments">
+      <div *ngFor="let comment of comments" class="comment">
+        <p>{{ comment.body }}</p>
+        <span>By {{ comment.user.fullName }} ({{ comment.user.username }})</span>
+      </div>
+    </div>
+
+    <ng-template #noComments>
+      <p>No comments available for this post.</p>
+    </ng-template>
+
+    <!-- إضافة تعليق جديد -->
+    <div class="add-comment">
+      <input type="text" [(ngModel)]="newComment" placeholder="Add a comment" />
+      <button (click)="addComment()">Submit</button>
+    </div>
+  </div>
+</div>
+
+
+

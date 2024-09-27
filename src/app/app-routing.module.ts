@@ -12,7 +12,7 @@ const appRoutes: Routes = [
   { path: 'home', loadChildren: () => import('./home/home.module').then(m => m.HomeModule), canActivate: [AuthGuard] }, // Lazy loading HomeModule with AuthGuard
   { path: 'products', loadChildren: () => import('./product/product.module').then(m => m.ProductsModule), canActivate: [AuthGuard] }, // Lazy loading ProductModule with AuthGuard
   { path: 'categories', loadChildren: () => import('./category/category.module').then(m => m.CategoryModule), canActivate: [AuthGuard] }, // Lazy loading CategoryModule with AuthGuard
-  { path: 'blogs', loadChildren: () => import('./blog/blog.module').then(m => m.BlogModule), canActivate: [AuthGuard] }, // Lazy loading BlogModule with AuthGuard
+  { path: 'blog', loadChildren: () => import('./blog/blog.module').then(m => m.BlogModule), canActivate: [AuthGuard] },
   { path: 'admin', loadChildren: () => import('./admin/admin.module').then(m => m.AdminModule), canActivate: [AdminGuard] }, // Lazy loading AdminModule with AdminGuard
   { path: '**', redirectTo: 'home' } // Redirects any unknown paths to 'home'
 ];

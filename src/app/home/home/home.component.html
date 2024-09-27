@@ -1,7 +1,7 @@
 <div *ngIf="isAdmin; else userContent">
   <h1>Welcome Admin!</h1>
    تضمين مكون لوحة تحكم الإدمن 
-   <app-admin-dashboard></app-admin-dashboard> 
+  <!-- <app-admin-dashboard></app-admin-dashboard> -->
 </div>
 
 <ng-template #userContent>
@@ -14,7 +14,7 @@
       <ul class="nav-links">
         <li><a routerLink="/">HOME</a></li>
         <li class="pointer" (click)="scrollToCategories()" style="cursor: pointer;">CATEGORIES</li> <!-- تأكد من إضافة cursor: pointer -->
-        <li><a routerLink="/blog">BLOGS</a></li>
+        <li><a [routerLink]="['/blog']">BLOGS</a></li>
         <li><a routerLink="/contact">CONTACT</a></li>
       </ul>
     </nav>

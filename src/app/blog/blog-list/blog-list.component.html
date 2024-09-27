@@ -1,1 +1,39 @@
-<p>blog-list works!</p>
+<div *ngIf="posts.length > 0; else noPostsTemplate">
+  <div class="header">
+    <h1>Posts</h1>
+  </div>
+  <div *ngFor="let post of posts" class="post-card">
+    <div class="post-header">
+      <img src="https://cdn-icons-png.flaticon.com/128/1144/1144709.png" alt="User Icon" class="user-icon"><span class="User">{{ post.userId }}</span>
+      <h2>{{ post.title }}</h2>
+      <p class="post-meta">
+        <img src="https://cdn-icons-png.flaticon.com/128/709/709612.png" alt="Views Icon" class="meta-icon"> {{ post.views }} |
+        <img src="https://cdn-icons-png.flaticon.com/128/126/126473.png" alt="Likes Icon" class="meta-icon"> {{ post.reactions.likes }} |
+        <img src="https://cdn-icons-png.flaticon.com/128/126/126504.png" alt="Dislikes Icon" class="meta-icon"> {{ post.reactions.dislikes }}
+      </p>
+    </div>
+
+    <div class="post-body">
+      <p>{{ post.body | slice:0:150 }}...</p> <!-- عرض مقتطف من المحتوى -->
+    </div>
+
+    <div class="post-tags">
+      <span *ngFor="let tag of post.tags" class="tag">{{ tag }}</span>
+    </div>
+
+    <div class="post-footer">
+
+      <button class="btn" (click)="viewDetails(post.id)">
+        <img src="https://cdn-icons-png.flaticon.com/128/134/134808.png" alt="Comments Icon" class="icon">
+        Read More
+      </button>
+
+    </div>
+  </div>
+</div>
+
+<!-- إذا لم توجد منشورات -->
+<ng-template #noPostsTemplate>
+  <p>No posts available.</p>
+</ng-template>
+
