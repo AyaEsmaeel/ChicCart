@@ -1,64 +1,58 @@
 import { Component, OnInit } from '@angular/core';
+import { AuthService } from '../../core/services/auth.service';
+import { ProductService } from '../../core/services/product.service';
+import { CategoryService } from '../../core/services/category.service';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-admin-dashboard',
+  selector: 'app-dashboard',
   templateUrl: './admin-dashboard.component.html',
   styleUrls: ['./admin-dashboard.component.css']
 })
-export class AdminDashboardComponent implements OnInit {
-  isAdmin: boolean = true;
-  categories: Array<{ name: string; url: string }> = [];
-  currentPage: number = 1;
-  totalPages: number = 5;
-  paginatedProducts: any[] = [];
+export class DashboardComponent implements OnInit {
+  products: any[] = [];
+  categories: any[] = [];
+  isAdmin: boolean = false;
 
-  constructor(private router: Router) { }
+  constructor(
+    private productService: ProductService,
+    private authService: AuthService,
+    private categoryService: CategoryService,
+    private router: Router
+  ) { }
 
-  ngOnInit(): void {
-    this.loadCategories();
+  ngOnInit() {
+    this.isAdmin = this.authService.isAdmin();
     this.loadProducts();
-  }
-
-  loadCategories() {
-    this.categories = [
-      { name: 'Electronics', url: '/products/electronics' },
-      { name: 'Fashion', url: '/products/fashion' },
-      { name: 'Home & Garden', url: '/products/home-garden' }
-    ];
+    this.loadCategories();
   }
 
   loadProducts() {
-    
+    this.productService.getProducts().subscribe(data => {
+      this.products = data.products;
+    });
   }
 
-  setPage(pageNumber: number) {
-    this.currentPage = pageNumber;
-    this.loadProducts();
+  loadCategories() {
+    this.categoryService.getCategories().subscribe(data => {
+      this.categories = data;
+    });
   }
 
   deleteProduct(productId: number) {
-    console.log(`Deleting product with ID: ${productId}`);
-    this.paginatedProducts = this.paginatedProducts.filter(product => product.id !== productId);
+    this.productService.deleteProduct(productId).subscribe(() => {
+      this.loadProducts(); // إعادة تحميل المنتجات بعد الحذف
+    });
+  }
+  navigateToEditProduct(productId: number) {
+    this.router.navigate(['/admin/edit-product', productId]);
+  }
+  navigateToAddProduct() {
+    this.router.navigate(['/admin/add-product']);
   }
 
-  editProduct(productId: number) {
-    
-    this.router.navigate(['/products/edit', productId]);
+  navigateToAddCategory() {
+    this.router.navigate(['/admin/add-category']);
   }
 
-  viewOrders() {
-    
-    this.router.navigate(['/admin/orders']); 
-  }
-
-  manageCategories() {
-    
-    this.router.navigate(['/admin/manage-categories']); 
-  }
-
-  addProduct() {
-    
-    this.router.navigate(['/products/add']); 
-  }
 }

@@ -1,0 +1,36 @@
+.add-category-container {
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+  .add-category-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+
+  .add-category-container label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+
+  .add-category-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+  button:hover {
+    background-color: #218838;
+  }

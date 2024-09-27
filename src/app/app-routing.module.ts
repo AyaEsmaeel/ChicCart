@@ -2,11 +2,11 @@ import { NgModule } from '@angular/core'; // Importing NgModule to define an Ang
 import { RouterModule, Routes } from '@angular/router'; // Importing RouterModule and Routes to set up application routing
 import { AuthGuard } from './core/guards/auth.guard'; // Importing AuthGuard to protect routes
 import { AdminGuard } from './core/guards/admin.guard'; // Importing AdminGuard for admin route protection
-import { AdminDashboardComponent } from './admin/admin-dashboard/admin-dashboard.component';
+import { DashboardComponent } from './admin/admin-dashboard/admin-dashboard.component';
 
 // Defining routes for the application
 const appRoutes: Routes = [
-  { path: 'admin-dashboard', component: AdminDashboardComponent },
+  { path: 'dashboard', component: DashboardComponent },
   { path: '', redirectTo: '/home', pathMatch: 'full' }, // Redirects the empty path to '/home', matching the full path
   { path: 'login', loadChildren: () => import('./auth/auth.module').then(m => m.AuthModule) }, // Lazy loading AuthModule
   { path: 'home', loadChildren: () => import('./home/home.module').then(m => m.HomeModule), canActivate: [AuthGuard] }, // Lazy loading HomeModule with AuthGuard
