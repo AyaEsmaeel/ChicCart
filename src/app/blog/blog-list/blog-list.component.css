@@ -1,0 +1,103 @@
+body {
+  background: #eee;
+  font-family: Arial, sans-serif;
+}
+.header {
+  text-align: center; /* لتوسيط النص */
+  margin-top: 20px; /* إضافة مسافة من الأعلى (اختياري) */
+}
+
+  .header h1 {
+    font-size: 60px; /* حجم الخط */
+    color: #363738; /* لون النص */
+  }
+
+.post-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  position: relative;
+  transition: transform 0.3s;
+}
+
+  .post-card:hover {
+    transform: scale(1.02);
+  }
+
+.post-header h2 {
+  margin: 0;
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 14px;
+  margin: 5px 0 15px;
+}
+.meta-icon {
+  width: 15px; /* تحديد العرض المناسب للصورة */
+  height: 15px; /* تحديد الارتفاع المناسب للصورة */
+  margin-right: 5px; /* إضافة مسافة بين الصورة والنص */
+  vertical-align: middle; /* محاذاة الصورة مع النص */
+}
+.user-icon {
+  width: 40px; /* تحديد العرض المناسب للصورة */
+  height: 40px; /* تحديد الارتفاع المناسب للصورة */
+  margin-right: 5px; /* إضافة مسافة بين الصورة والنص */
+  vertical-align: middle;
+}
+
+.post-body p {
+  color: #333;
+  margin: 10px 0;
+}
+
+.post-tags {
+  margin: 10px 0;
+}
+
+.tag {
+  background: #ffb535;
+  color: white;
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.User {
+  font-weight: 500;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.post-footer {
+  margin-top: 15px;
+}
+
+.btn {
+  background-color: white; /* خلفية زر بيضاء */
+  color: #333; /* لون النص */
+  border: 1px solid #ccc; /* حدود الزر */
+  border-radius: 5px; /* زوايا دائرية */
+  padding: 10px 15px; /* مسافة داخلية */
+  display: flex; /* استخدام الفليكس لتنسيق العناصر */
+  align-items: center; /* محاذاة العناصر عمودياً في المنتصف */
+  cursor: pointer; /* تغيير المؤشر عند المرور فوق الزر */
+  transition: background-color 0.3s; /* تأثير الانتقال */
+}
+
+  .btn:hover {
+    background-color: #f0f0f0; /* تأثير عند تمرير الماوس فوق الزر */
+  }
+
+.icon {
+  width: 20px; /* عرض الأيقونة */
+  height: 20px; /* ارتفاع الأيقونة */
+  margin-right: 8px; /* مسافة بين الأيقونة والنص */
+}
+

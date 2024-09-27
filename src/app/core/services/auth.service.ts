@@ -17,37 +17,66 @@ export class AuthService {
   }
 
   // دالة لتسجيل الدخول
-  login(username: string, email: string, password: string): boolean {
+  login(username: string, email: string, password: string): string | null {
     const user = this.users.find(u =>
-      u.username === username &&    // تحقق من اسم المستخدم
-      u.email === email &&          // تحقق من البريد الإلكتروني
-      u.password === password        // تحقق من كلمة المرور
+      u.username === username &&
+      u.email === email &&
+      u.password === password
     );
 
     if (user) {
-      localStorage.setItem('user', user.username);
-      localStorage.setItem('role', user.role);
-      return true;
+      const token = this.createToken(user); // إنشاء رمز JWT
+      localStorage.setItem('token', token); // تخزين الرمز في localStorage
+      localStorage.setItem('username', user.username); // تخزين اسم المستخدم
+
+      return token; // إرجاع الرمز
     }
-    return false;
+    return null; // إرجاع null إذا لم يتم العثور على المستخدم
+  }
+
+  // دالة لإنشاء JWT
+  private createToken(user: any): string {
+    const header = { alg: 'HS256', typ: 'JWT' };
+    const payload = {
+      username: user.username,
+      role: user.role
+    };
+
+    // تحويل الرأس والحمولة إلى JSON
+    const encodedHeader = btoa(JSON.stringify(header));
+    const encodedPayload = btoa(JSON.stringify(payload));
+
+    // إنشاء رمز JWT
+    return `${encodedHeader}.${encodedPayload}.signature`; // هنا استخدم توقيع حقيقي في التطبيق الفعلي
   }
 
   // دالة للتحقق مما إذا كان المستخدم مسجلاً الدخول
   isLoggedIn(): boolean {
-    return localStorage.getItem('user') !== null;
+    return localStorage.getItem('token') !== null;
   }
 
   // دالة للتحقق مما إذا كان المستخدم إداريًا
   isAdmin(): boolean {
-    return localStorage.getItem('role') === 'admin';
+    const token = localStorage.getItem('token');
+    if (!token) return false;
+
+    const payload = this.decodeToken(token);
+    return payload?.role === 'admin'; // التحقق من دور المستخدم من الحمولة
+  }
+
+  // دالة لفك ترميز الـ JWT
+  private decodeToken(token: string): any {
+    const payload = token.split('.')[1];
+    const decodedPayload = atob(payload);
+    return JSON.parse(decodedPayload);
   }
 
   // دالة لتسجيل الخروج
   logout() {
-    localStorage.removeItem('user');
-    localStorage.removeItem('role');
+    localStorage.removeItem('token');
   }
 }
+
 
 
 

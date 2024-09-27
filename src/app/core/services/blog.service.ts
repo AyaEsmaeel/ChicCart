@@ -20,6 +20,13 @@ export class BlogService {
     return this.http.get(`${this.apiUrl}/${id}`);
   }
 
+  likePost(postId: number): Observable<any> {
+    return this.http.post(`${this.apiUrl}/${postId}/like`, {}); // Assuming you have an endpoint for liking a post
+  }
+
+  dislikePost(postId: number): Observable<any> {
+    return this.http.post(`${this.apiUrl}/${postId}/dislike`, {}); // Assuming you have an endpoint for disliking a post
+  }
   // دالة لجلب التعليقات المتعلقة بمدونة معينة
   getCommentsByPostId(postId: string | number): Observable<any> {
     return this.http.get(`https://dummyjson.com/posts/${postId}/comments`); // API للتعليقات
@@ -36,5 +43,8 @@ export class BlogService {
 
   deletePost(id: string | number): Observable<any> {
     return this.http.delete(`${this.apiUrl}/${id}`);
+  }
+  incrementViews(postId: number): Observable<any> {
+    return this.http.post(`${this.apiUrl}/${postId}/increment-views`, {});
   }
 }

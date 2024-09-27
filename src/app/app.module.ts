@@ -8,6 +8,7 @@ import { AuthModule } from './auth/auth.module';
 import { HomeModule } from './home/home.module';
 import { ProductsModule } from './product/product.module'; 
 import { AdminDashboardComponent } from './admin/admin-dashboard/admin-dashboard.component';
+import { FormsModule } from '@angular/forms'; // استيراد FormsModule
 
 // استيراد الخدمات
 import { ProductService } from './core/services/product.service';
@@ -25,6 +26,7 @@ import { BlogService } from './core/services/blog.service';
     HttpClientModule,
     ReactiveFormsModule,
     HomeModule,
+    FormsModule,
     AuthModule,
     ProductsModule // استيراد وحدات المنتجات
   ],
