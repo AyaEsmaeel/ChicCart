@@ -1,17 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\app",
-    "\\src\\app\\admin",
-    "\\src\\app\\admin\\product-details",
-    "\\src\\app\\auth",
-    "\\src\\app\\auth\\login",
-    "\\src\\app\\core",
-    "\\src\\app\\core\\services",
-    "\\src\\app\\shared",
-    "\\src\\app\\shared\\form-input"
+    ""
   ],
-  "SelectedNode": "\\src\\app\\core\\core.module.ts",
   "PreviewInSolutionExplorer": false
 }
