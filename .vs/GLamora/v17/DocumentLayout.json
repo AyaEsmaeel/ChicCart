@@ -1,169 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\seifa\\source\\repos\\Glamora\\",
+  "WorkspaceRootPath": "E:\\Files pdf\\iti\\iti projects\\GLamora\\",
   "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\category.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\category.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti Tasks\\Task7\\Task7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-list\\product-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-list\\product-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-list\\product-list.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-list\\product-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-details\\product-details.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\form-input\\form-input.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\GLamora\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\GLamora\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\product\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\guards\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\guards\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\core-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\core.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\auth.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\form-input\\form-input.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\form-input\\form-input.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\login\\login.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\auth.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\auth-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\GLamora\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\GLamora\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\form-input\\form-input.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\shared.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\shared.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\login\\login.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\home\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\core-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\auth\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\auth.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\auth.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\core\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -173,24 +126,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "home.component.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.html",
-              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.html",
-              "RelativeToolTip": "src\\app\\home\\home\\home.component.html",
-              "ViewState": "AQIAADgAAAAAAAAAAAAAwEcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-24T17:19:20.779Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.component.html",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.html",
+              "RelativeDocumentMoniker": "src\\app\\auth\\login\\login.component.html",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.html",
+              "RelativeToolTip": "src\\app\\auth\\login\\login.component.html",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T22:52:02.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin-dashboard.component.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
+              "RelativeToolTip": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwBMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:36:54.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\auth\\login\\login.component.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.ts",
+              "RelativeToolTip": "src\\app\\auth\\login\\login.component.ts",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwD8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T21:35:38.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,402 +179,183 @@
               "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.ts",
               "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.ts",
               "RelativeToolTip": "src\\app\\home\\home\\home.component.ts",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwDwAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T17:14:51.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "category.service.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\category.service.ts",
-              "RelativeDocumentMoniker": "src\\app\\core\\services\\category.service.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\category.service.ts",
-              "RelativeToolTip": "src\\app\\core\\services\\category.service.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T18:37:39.703Z",
+              "WhenOpened": "2024-09-26T21:06:30.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "home.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\home\\home.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home.module.ts",
-              "RelativeToolTip": "src\\app\\home\\home.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T17:14:43.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "home.component.css",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.css",
-              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.css",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.css",
-              "RelativeToolTip": "src\\app\\home\\home\\home.component.css",
-              "ViewState": "AQIAAFkBAAAAAAAAAAAAACABAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-25T11:56:30.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Task7.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti Tasks\\Task7\\Task7.html",
-              "RelativeDocumentMoniker": "..\\..\\iti Tasks\\Task7\\Task7.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti Tasks\\Task7\\Task7.html",
-              "RelativeToolTip": "..\\..\\iti Tasks\\Task7\\Task7.html",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-25T14:37:17.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "product-list.component.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-list\\product-list.component.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.ts",
-              "RelativeToolTip": "src\\app\\product\\product-list\\product-list.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T10:28:41.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "product.service.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\product.service.ts",
-              "RelativeDocumentMoniker": "src\\app\\core\\services\\product.service.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\product.service.ts",
-              "RelativeToolTip": "src\\app\\core\\services\\product.service.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T18:20:22.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "product-routing.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-routing.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-routing.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-routing.module.ts",
-              "RelativeToolTip": "src\\app\\product\\product-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T11:27:17.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "product-list.component.css",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.css",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-list\\product-list.component.css",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.css",
-              "RelativeToolTip": "src\\app\\product\\product-list\\product-list.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-25T17:10:32.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "product-list.component.spec.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.spec.ts",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-list\\product-list.component.spec.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.spec.ts",
-              "RelativeToolTip": "src\\app\\product\\product-list\\product-list.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T18:16:17.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "product-list.component.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.html",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-list\\product-list.component.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-list\\product-list.component.html",
-              "RelativeToolTip": "src\\app\\product\\product-list\\product-list.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-25T11:02:41.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "src\\app\\app-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T11:15:27.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "product-details.component.css",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.css",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-details\\product-details.component.css",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.css",
-              "RelativeToolTip": "src\\app\\product\\product-details\\product-details.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-25T18:05:45.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.module.ts",
-              "RelativeToolTip": "src\\app\\app.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T18:13:20.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "app.component.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "src\\app\\app.component.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.html",
-              "RelativeToolTip": "src\\app\\app.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-24T16:43:58.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.ts",
-              "RelativeToolTip": "src\\app\\app.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T16:43:47.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "product.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\product\\product.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product.module.ts",
-              "RelativeToolTip": "src\\app\\product\\product.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T11:28:06.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "login.component.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.html",
-              "RelativeDocumentMoniker": "src\\app\\auth\\login\\login.component.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.html",
-              "RelativeToolTip": "src\\app\\auth\\login\\login.component.html",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-25T16:39:35.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "product-details.component.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.html",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-details\\product-details.component.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.html",
-              "RelativeToolTip": "src\\app\\product\\product-details\\product-details.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-25T11:07:19.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "product-details.component.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\product\\product-details\\product-details.component.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\product\\product-details\\product-details.component.ts",
-              "RelativeToolTip": "src\\app\\product\\product-details\\product-details.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T11:06:06.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "core-routing.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core-routing.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\core\\core-routing.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core-routing.module.ts",
-              "RelativeToolTip": "src\\app\\core\\core-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T10:32:34.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "core.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\core\\core.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core.module.ts",
-              "RelativeToolTip": "src\\app\\core\\core.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T10:31:15.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "auth.guard.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\guards\\auth.guard.ts",
-              "RelativeDocumentMoniker": "src\\app\\core\\guards\\auth.guard.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\guards\\auth.guard.ts",
-              "RelativeToolTip": "src\\app\\core\\guards\\auth.guard.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T10:05:14.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "admin-routing.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-routing.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\admin\\admin-routing.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-routing.module.ts",
-              "RelativeToolTip": "src\\app\\admin\\admin-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-25T10:04:08.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "index.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\index.html",
-              "RelativeDocumentMoniker": "src\\index.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\index.html",
-              "RelativeToolTip": "src\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-24T23:01:19.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "login.component.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\auth\\login\\login.component.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.ts",
-              "RelativeToolTip": "src\\app\\auth\\login\\login.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T15:48:10.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "auth.service.ts",
-              "DocumentMoniker": "C:\\Users\\seifa\\source\\repos\\Glamora\\src\\app\\core\\services\\auth.service.ts",
-              "RelativeDocumentMoniker": "src\\app\\core\\services\\auth.service.ts",
-              "ToolTip": "C:\\Users\\seifa\\source\\repos\\Glamora\\src\\app\\core\\services\\auth.service.ts",
-              "RelativeToolTip": "src\\app\\core\\services\\auth.service.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T17:06:45.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "form-input.component.css",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.css",
-              "RelativeDocumentMoniker": "src\\app\\shared\\form-input\\form-input.component.css",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.css",
-              "RelativeToolTip": "src\\app\\shared\\form-input\\form-input.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-24T20:17:07.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "form-input.component.ts",
               "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.ts",
               "RelativeDocumentMoniker": "src\\app\\shared\\form-input\\form-input.component.ts",
               "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.ts",
               "RelativeToolTip": "src\\app\\shared\\form-input\\form-input.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T16:49:53.886Z"
+              "WhenOpened": "2024-09-26T23:14:13.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "form-input.component.html",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.html",
-              "RelativeDocumentMoniker": "src\\app\\shared\\form-input\\form-input.component.html",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.html",
-              "RelativeToolTip": "src\\app\\shared\\form-input\\form-input.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-24T20:17:02.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "auth.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\auth\\auth.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth.module.ts",
-              "RelativeToolTip": "src\\app\\auth\\auth.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "core.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\core.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core.module.ts",
+              "RelativeToolTip": "src\\app\\core\\core.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T15:46:58.25Z"
+              "WhenOpened": "2024-09-26T22:38:24.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 6,
+              "Title": "admin-routing.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\admin\\admin-routing.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-routing.module.ts",
+              "RelativeToolTip": "src\\app\\admin\\admin-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:37:24.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "admin.module.ts",
               "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin.module.ts",
               "RelativeDocumentMoniker": "src\\app\\admin\\admin.module.ts",
               "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin.module.ts",
               "RelativeToolTip": "src\\app\\admin\\admin.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T19:22:49.693Z"
+              "WhenOpened": "2024-09-26T21:10:13.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "home.component.spec.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.spec.ts",
-              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.spec.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.spec.ts",
-              "RelativeToolTip": "src\\app\\home\\home\\home.component.spec.ts",
+              "DocumentIndex": 8,
+              "Title": "auth.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\auth\\auth.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth.module.ts",
+              "RelativeToolTip": "src\\app\\auth\\auth.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T21:52:47.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "auth-routing.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\auth\\auth-routing.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth-routing.module.ts",
+              "RelativeToolTip": "src\\app\\auth\\auth-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:37:59.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T21:12:59.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "form-input.component.spec.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\form-input\\form-input.component.spec.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\form-input\\form-input.component.spec.ts",
+              "RelativeToolTip": "src\\app\\shared\\form-input\\form-input.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T17:19:18.581Z"
+              "WhenOpened": "2024-09-26T23:17:46.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 12,
+              "Title": "home-routing.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\home\\home-routing.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home-routing.module.ts",
+              "RelativeToolTip": "src\\app\\home\\home-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:38:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "home.component.html",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.html",
+              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.html",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.html",
+              "RelativeToolTip": "src\\app\\home\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T21:06:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "home.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\home\\home.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home.module.ts",
+              "RelativeToolTip": "src\\app\\home\\home.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T21:18:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "shared.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\shared.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\shared.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\shared\\shared.module.ts",
+              "RelativeToolTip": "src\\app\\shared\\shared.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T23:14:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "home.component.css",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.css",
+              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.css",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.css",
+              "RelativeToolTip": "src\\app\\home\\home\\home.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T23:11:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "login.component.spec.ts",
               "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.spec.ts",
               "RelativeDocumentMoniker": "src\\app\\auth\\login\\login.component.spec.ts",
@@ -603,79 +363,151 @@
               "RelativeToolTip": "src\\app\\auth\\login\\login.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T16:56:05.542Z"
+              "WhenOpened": "2024-09-26T22:51:56.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "admin-dashboard.component.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
-              "RelativeToolTip": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.ts",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 18,
+              "Title": "home.component.spec.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\home\\home\\home.component.spec.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\home\\home\\home.component.spec.ts",
+              "RelativeToolTip": "src\\app\\home\\home\\home.component.spec.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T18:18:49.096Z"
+              "WhenOpened": "2024-09-26T22:46:30.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 19,
+              "Title": "core-routing.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\core-routing.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\core-routing.module.ts",
+              "RelativeToolTip": "src\\app\\core\\core-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:38:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T23:05:23.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T23:05:21.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "product-details.component.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\product-details\\product-details.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\admin\\product-details\\product-details.component.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\product-details\\product-details.component.ts",
+              "RelativeToolTip": "src\\app\\admin\\product-details\\product-details.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:52:33.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "auth.service.spec.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\auth.service.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\auth.service.spec.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\auth.service.spec.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\auth.service.spec.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:51:08.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "login.component.css",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.css",
+              "RelativeDocumentMoniker": "src\\app\\auth\\login\\login.component.css",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\login\\login.component.css",
+              "RelativeToolTip": "src\\app\\auth\\login\\login.component.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T21:29:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\auth.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\core\\services\\auth.service.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\core\\services\\auth.service.ts",
+              "RelativeToolTip": "src\\app\\core\\services\\auth.service.ts",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T21:52:57.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.spec.ts",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T22:48:26.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.component.html",
+              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T22:06:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "admin-dashboard.component.html",
               "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
               "RelativeDocumentMoniker": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
               "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
               "RelativeToolTip": "src\\app\\admin\\admin-dashboard\\admin-dashboard.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-24T18:21:07.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "auth-routing.module.ts",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth-routing.module.ts",
-              "RelativeDocumentMoniker": "src\\app\\auth\\auth-routing.module.ts",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\src\\app\\auth\\auth-routing.module.ts",
-              "RelativeToolTip": "src\\app\\auth\\auth-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-24T16:24:26.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "VSWorkspaceState.json",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\VSWorkspaceState.json",
-              "RelativeDocumentMoniker": ".vs\\VSWorkspaceState.json",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\VSWorkspaceState.json",
-              "RelativeToolTip": ".vs\\VSWorkspaceState.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T16:28:19.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "DocumentLayout.json",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\GLamora\\v17\\DocumentLayout.json",
-              "RelativeDocumentMoniker": ".vs\\GLamora\\v17\\DocumentLayout.json",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\GLamora\\v17\\DocumentLayout.json",
-              "RelativeToolTip": ".vs\\GLamora\\v17\\DocumentLayout.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T16:28:14.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "applicationhost.config",
-              "DocumentMoniker": "E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\GLamora\\config\\applicationhost.config",
-              "RelativeDocumentMoniker": ".vs\\GLamora\\config\\applicationhost.config",
-              "ToolTip": "E:\\Files pdf\\iti\\iti projects\\GLamora\\.vs\\GLamora\\config\\applicationhost.config",
-              "RelativeToolTip": ".vs\\GLamora\\config\\applicationhost.config",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-24T16:28:07.777Z"
+              "WhenOpened": "2024-09-26T22:09:10.526Z",
+              "EditorCaption": ""
             }
           ]
         }
