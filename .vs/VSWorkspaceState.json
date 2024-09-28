@@ -4,13 +4,14 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\admin",
+    "\\src\\app\\admin\\add-category",
     "\\src\\app\\admin\\admin-dashboard",
-    "\\src\\app\\auth",
-    "\\src\\app\\auth\\login",
+    "\\src\\app\\admin\\edit-product",
     "\\src\\app\\core",
     "\\src\\app\\core\\services",
     "\\src\\app\\home",
     "\\src\\app\\home\\home"
   ],
+  "SelectedNode": "\\src\\app\\admin\\admin.module.ts",
   "PreviewInSolutionExplorer": false
 }
