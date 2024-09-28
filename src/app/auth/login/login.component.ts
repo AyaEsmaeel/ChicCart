@@ -42,40 +42,34 @@ export class LoginComponent {
           // تسجيل الدخول ناجح
           localStorage.setItem('user', user.username);
           localStorage.setItem('role', user.role);
-          this.router.navigate(['/home']);
+
+          // توجيه المستخدم بناءً على الدور
+          if (user.role === 'admin') {
+            this.router.navigate(['/dashboard']); // توجيه الإداري إلى لوحة التحكم
+          } else {
+            this.router.navigate(['/home']); // توجيه المستخدم العادي إلى الصفحة الرئيسية
+          }
+
           console.log(`Hello ${user.role}`);
         } else {
           // إذا كانت كلمة المرور غير صحيحة
-          this.passwordError = 'Password is incorrect';
+          this.passwordError = 'كلمة المرور غير صحيحة';
         }
       } else {
         // إذا كان اسم المستخدم أو البريد الإلكتروني غير صحيح
-        this.usernameError = 'Username or Email is incorrect';
+        this.usernameError = 'اسم المستخدم أو البريد الإلكتروني غير صحيح';
       }
     } else {
       // عرض رسائل الخطأ المناسبة لكل حقل
       if (this.loginForm.get('username')?.invalid) {
-        this.usernameError = 'Please enter a valid username';
+        this.usernameError = 'يرجى إدخال اسم مستخدم صالح';
       }
       if (this.loginForm.get('email')?.invalid) {
-        this.emailError = 'Please enter a valid email';
+        this.emailError = 'يرجى إدخال بريد إلكتروني صالح';
       }
       if (this.loginForm.get('password')?.invalid) {
-        this.passwordError = 'Please enter a valid password';
+        this.passwordError = 'يرجى إدخال كلمة مرور صالحة';
       }
     }
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

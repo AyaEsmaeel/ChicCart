@@ -4,14 +4,18 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\admin",
-    "\\src\\app\\admin\\product-details",
-    "\\src\\app\\auth",
-    "\\src\\app\\auth\\login",
+    "\\src\\app\\admin\\add-category",
+    "\\src\\app\\admin\\admin-dashboard",
+    "\\src\\app\\admin\\edit-product",
     "\\src\\app\\core",
     "\\src\\app\\core\\services",
-    "\\src\\app\\shared",
-    "\\src\\app\\shared\\form-input"
+    "\\src\\app\\home",
+    "\\src\\app\\home\\home"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\src\\app\\core\\services\\auth.service.ts",
+=======
+  "SelectedNode": "\\src\\app\\admin\\admin.module.ts",
+>>>>>>> cad2668adfea1d9b43c14d7e26aa6b39872c8bba
   "PreviewInSolutionExplorer": false
 }
