@@ -44,6 +44,8 @@ export class PostDetailsComponent implements OnInit {
     this.commentService.getComments(this.postId).subscribe(
       (data) => {
         this.comments = data.comments; // Ensure this matches the response structure
+        // If you want to limit to the first 5 comments
+        this.comments = this.comments.slice(0, 5);
       },
       (error) => {
         console.error('Error fetching comments:', error);

@@ -12,6 +12,6 @@
     "\\src\\app\\shared",
     "\\src\\app\\shared\\form-input"
   ],
-  "SelectedNode": "\\src\\app\\core\\core.module.ts",
+  "SelectedNode": "\\src\\app\\core\\services\\auth.service.ts",
   "PreviewInSolutionExplorer": false
 }
